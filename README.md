@@ -1,4 +1,4 @@
 # ash2demo
-tis is my first git repository 
+this is my first git repository 
 Aurthor- Ashish Dubey
 
